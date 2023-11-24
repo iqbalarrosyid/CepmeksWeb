@@ -1,0 +1,70 @@
+.banner{
+    background-image: url("https://c0.wallpaperflare.com/preview/605/254/524/barbershop-scissors-hanging-wall.jpg");
+
+    background-position: center;
+    background-size: cover;
+
+}
+.bg-banner{
+    background: rgba(0, 0, 0, 0.616);
+}
+
+.img-banner{
+    width: 350px;
+    height: 350px;
+    background-image: url("https://i.pinimg.com/564x/e9/7f/9e/e97f9e4298c53d4b8596556a1d74f57c.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.category{
+    background-image: url("https://c1.wallpaperflare.com/preview/907/957/82/hair-stylist-stylist-salon-hairdresser.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-category{
+    background: rgba(0, 0, 0, 0.616);
+}
+
+.bg-cap{
+    background: rgba(0, 0, 0, 0.555);
+}
+.contact{
+    background-image: url("https://c1.wallpaperflare.com/preview/907/957/82/hair-stylist-stylist-salon-hairdresser.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg-contact{
+    background: rgba(0, 0, 0, 0.616);
+}
+
+.fa-twitter{
+    color: white;
+}
+
+.fa-whatsapp{
+    color: white;
+}
+
+.fa-facebook{
+    color: white;
+}
+
+.fa-instagram{
+    color: white;
+}
+
+.card{
+    background: rgb(20, 19, 19);
+}
+
+
